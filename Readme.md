@@ -1,5 +1,9 @@
 # FinTech news headline predict
 ***
+
+Easy run code with Colab [url here](<https://colab.research.google.com/drive/1dG9PnUcb8gT-coglLzMLUKvM08RS3v7N?usp=sharing>)
+
+***
 [0]. Prepare work
 
 Download [synthesis link](<https://drive.google.com/drive/folders/1-OF8ytKnGyHEUorfRxTMFnDa4a0ekbl3?usp=sharing>)
