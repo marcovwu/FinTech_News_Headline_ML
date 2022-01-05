@@ -1,0 +1,9 @@
+# pip install --upgrade pip
+# pip install -r requirements.txt
+mplfinance
+pandas==1.3.1
+matplotlib
+finvizfinance==0.10.1
+nltk
+scikit-learn
+xgboost==1.5.1
