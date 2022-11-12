@@ -1,6 +1,6 @@
 # FinTech news headline predict
 
-This is a final project in Financial Technology course. I used web crawlers to receive the latest global news and optimize the regression model to predict stock trends. And our framework successful entered the final in this course.
+This is a final project in Financial Technology course. I used web crawlers to receive the latest global news and optimize the regression model to predict stock trends. And our framework successful entered the final in this course. Here is our [final report](<https://drive.google.com/file/d/1nyYGJmDAcwhQwKYUVUwtjsCuwVPYZobD/view?usp=share_link>)
 
 * Easy to run the code with Colab [url here](<https://colab.research.google.com/drive/1dG9PnUcb8gT-coglLzMLUKvM08RS3v7N?usp=sharing>)
 
